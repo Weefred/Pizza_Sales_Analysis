@@ -6,7 +6,7 @@
 
  Power BI Dashboard: [Click to view](https://1drv.ms/i/c/94c0edc81177dbde/EanaV70hsGRFrCNjLdzoZMYBjg9NKUqg7RPGf0WeOd4prQ?e=eMcCvl)
  
- Power BI Dashboard: [Click to interact](https://1drv.ms/u/c/94c0edc81177dbde/EXS0N_kxCwRAr4AMNcsG-AoB6uFFl_5RbfgSL4q2u47F7g?e=KLuN7d)
+ Power BI Dashboard: [Click to interact]
 
 ## About this project
 
