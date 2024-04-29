@@ -2,9 +2,17 @@
 
 #### Tools used: Excel, Power BI
 
+ Dataset used: [Click to view] (C:\Users\hp\Downloads\Projects\Pizza Sales-Data.xlsx)
+ 
+ Power BI Dashboard: [Click to view] (C:\Users\hp\Downloads\pizza sales dashboard.png)
+ 
+ Power BI Dashboard: [Click to interact] (C:\Users\hp\Downloads\Projects\Pizza Sales data.pbix)
+
 ## About this project
 
 This project aims to analyze sales data spanning pizza types across various company locations over a three-year period.
+
+![pizza sales dashboard] (pizza sales dashboard.png)
 
 ### APPLIED STEPS
 
