@@ -4,15 +4,15 @@
 
  Dataset used: [Click to view] ()
 
- Power BI Dashboard: [Click to view] (https://1drv.ms/i/c/94c0edc81177dbde/EanaV70hsGRFrCNjLdzoZMYBjg9NKUqg7RPGf0WeOd4prQ?e=eMcCvl)
+ Power BI Dashboard: [Click to view](https://1drv.ms/i/c/94c0edc81177dbde/EanaV70hsGRFrCNjLdzoZMYBjg9NKUqg7RPGf0WeOd4prQ?e=eMcCvl)
  
- Power BI Dashboard: [Click to interact] (https://1drv.ms/u/c/94c0edc81177dbde/EXS0N_kxCwRAr4AMNcsG-AoB6uFFl_5RbfgSL4q2u47F7g?e=KLuN7d)
+ Power BI Dashboard: [Click to interact](https://1drv.ms/u/c/94c0edc81177dbde/EXS0N_kxCwRAr4AMNcsG-AoB6uFFl_5RbfgSL4q2u47F7g?e=KLuN7d)
 
 ## About this project
 
 This project aims to analyze sales data spanning pizza types across various company locations over a three-year period.
 
-![pizza sales dashboard] (pizza sales dashboard.png)
+![pizza sales dashboard](https://1drv.ms/i/c/94c0edc81177dbde/EanaV70hsGRFrCNjLdzoZMYBjg9NKUqg7RPGf0WeOd4prQ?e=8BP2CG)
 
 ### APPLIED STEPS
 
