@@ -2,17 +2,15 @@
 
 #### Tools used: Excel, Power BI
 
- Dataset used: [Click to view] ()
+ Dataset used: [Click to view](file:///C:/Users/hp/OneDrive/Pizza_Sales-Data-1.htm) 
 
  Power BI Dashboard: [Click to view](https://1drv.ms/i/c/94c0edc81177dbde/EanaV70hsGRFrCNjLdzoZMYBjg9NKUqg7RPGf0WeOd4prQ?e=eMcCvl)
  
- Power BI Dashboard: [Click to interact]
+ Power BI Dashboard: [Click to interact](https://app.powerbi.com/view?r=eyJrIjoiYTNiNjE0NzUtNDYzNC00NzQ5LWE4MzgtODIwM2NlZWEyNTVlIiwidCI6IjI3MGRhZWVlLTdkMWYtNDQwZC1hMDYxLTQzOWMzMGFhYjUwMSJ9)
 
 ## About this project
 
 This project aims to analyze sales data spanning pizza types across various company locations over a three-year period.
-
-![pizza sales dashboard](https://1drv.ms/i/c/94c0edc81177dbde/EanaV70hsGRFrCNjLdzoZMYBjg9NKUqg7RPGf0WeOd4prQ?e=8BP2CG)
 
 ### APPLIED STEPS
 
