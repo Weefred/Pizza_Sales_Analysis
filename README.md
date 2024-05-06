@@ -1,4 +1,4 @@
-# Pizza_Sales_Analysis
+<div align='center'> <h1> PIZZA SALES ANALYSIS </div>
 
 #### Tools used: Excel, Power BI
 
@@ -12,7 +12,9 @@
 
 This project aims to analyze sales data spanning pizza types across various company locations over a three-year period.
 
-### APPLIED STEPS
+![image](https://github.com/Weefred/Pizza_Sales_Analysis/blob/main/pizza%20sales%20dashboard.png)
+
+## APPLIED STEPS
 
 #### The ETL Process
 
@@ -42,7 +44,7 @@ In addition, two extra columns were created using the time and date columns to a
 
 - What is the impact of sales discounts on overall revenue and profitability?
 
-### Insights
+## Insights
 
 1. Among the three years, 2018 emerges as the peak sales year recording ₦5.78bn in revenue, closely followed by 2019 with ₦5.77bn. However, year 2020 saw a significant decline to ₦1.54bn.
 
@@ -54,7 +56,7 @@ In addition, two extra columns were created using the time and date columns to a
 
 5. The comparison between sales before and after discounts shows a slight decrease in revenue from ₦13.6bn to ₦13.1bn indicating minimal impact of discounts on overall sales.
 
-### Recommendations
+## Recommendations
 
 **Review Product Offerings**: Consider introducing new flavors, toppings, or menu items to attract a wider customer base and cater to changing tastes.
 
