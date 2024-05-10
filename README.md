@@ -6,7 +6,7 @@
 
  **Power BI Dashboard: [Click to view](https://1drv.ms/i/c/94c0edc81177dbde/EanaV70hsGRFrCNjLdzoZMYBjg9NKUqg7RPGf0WeOd4prQ?e=eMcCvl)**
  
- **Power BI Dashboard: [Click to interact](https://app.powerbi.com/view?r=eyJrIjoiYTNiNjE0NzUtNDYzNC00NzQ5LWE4MzgtODIwM2NlZWEyNTVlIiwidCI6IjI3MGRhZWVlLTdkMWYtNDQwZC1hMDYxLTQzOWMzMGFhYjUwMSJ9)**
+ **Power BI Dashboard: [Click to interact](https://github.com/Weefred/Pizza_Sales_Analysis/blob/main/Pizza_Sales_BI_Dashboard.pbix)**
 
 ## About this project
 
