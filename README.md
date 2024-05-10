@@ -2,11 +2,11 @@
 
 #### Tools used: Excel, Power BI
 
- **Dataset used: [Click to view](https://1drv.ms/u/c/94c0edc81177dbde/EcMj3g34A_ZMjXW3-tYh3E4Bgz2dlnV0rIyv5EuQX1im7Q?e=zyIrXf)** 
+ **Dataset used: [Click to view](https://1drv.ms/x/c/94c0edc81177dbde/EW83XfGQqUZOjDawknI0J94Bb5lhrvnQ2Ts-lQApy2FQOw?e=ZSxnFc)** 
 
  **Power BI Dashboard: [Click to view](https://1drv.ms/i/c/94c0edc81177dbde/EanaV70hsGRFrCNjLdzoZMYBjg9NKUqg7RPGf0WeOd4prQ?e=eMcCvl)**
  
- **Power BI Dashboard: [Click to interact](https://github.com/Weefred/Pizza_Sales_Analysis/blob/main/Pizza_Sales_BI_Dashboard.pbix)**
+ **Power BI Dashboard: [Click to interact](https://app.powerbi.com/view?r=eyJrIjoiZWRmMzFmMzgtYTQzNy00NzE4LWJkYjAtMmQ4YTk5Yzk5OGU1IiwidCI6IjI3MGRhZWVlLTdkMWYtNDQwZC1hMDYxLTQzOWMzMGFhYjUwMSJ9)**
 
 ## About this project
 
