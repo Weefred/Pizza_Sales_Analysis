@@ -14,6 +14,10 @@ This project aims to analyze sales data spanning pizza types across various comp
 
 ![image](https://github.com/Weefred/Pizza_Sales_Analysis/blob/main/pizza%20sales%20dashboard.png)
 
+## Business Problem
+
+The pizza chain has seen a significant drop in revenue prompting the need to analyze sales data and identify factors contributing to the decline. By analyzing sales patterns and customer preferences, the chain aims to enhance revenue, customer satisfaction, and profitability. Insights from data analytics will inform marketing strategies and service delivery improvements.
+
 ## APPLIED STEPS
 
 #### The ETL Process
